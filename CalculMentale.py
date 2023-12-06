@@ -23,6 +23,7 @@ operations = [
 ]
 
 #Création de mon interface appelée "fenetre" avec initialisation de la taille par defaut
+#
 fenetre = tk.Tk()
 fenetre.geometry("1500x1500")
 fenetre.title("EXPOSE GROUPE 14 ")
